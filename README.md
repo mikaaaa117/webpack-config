@@ -3,5 +3,5 @@ Configuration of Webpack
 ### For:
 + .jsx
 + .js
-+ scss
-+ css
++ .scss
++ .css
